@@ -13,7 +13,7 @@ h1 {
 
 .events {
     width: 80%;
-    background-color: rgba(156, 19, 88, 0.6);
+    background-color: pink;
     border-radius: 15px;
     display: flex;
     justify-content: space-around;
