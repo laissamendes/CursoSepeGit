@@ -12,9 +12,6 @@ h1 {
     background-color: lightpink;
     border-radius: 10px;
 }
-h1:hover{
-    box-shadow: 5px 5px 5px 5px pink;
-}
 
 .events {
     width: 80%;
